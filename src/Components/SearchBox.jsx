@@ -82,7 +82,7 @@ export default function SearchBox(props) {
                                 >
                                     <ListItemIcon>
                                         <img
-                                            src="https://cdn-icons.flaticon.com/png/512/1865/premium/1865269.png?token=exp=1659702705~hmac=df6eb9927ac5c108fd29fe137f0416b3"
+                                            src="./location.png"
                                             alt=""
                                             style={{ width: 38, height: 38 }}
                                         />
