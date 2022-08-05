@@ -13,11 +13,14 @@
 .nav > button {
  
   width: 8%;
+  height: 8%;
+  padding: 10px;
   border-radius: 3px;
   border: none;
   background-color: orchid;
   color: white;
   font-weight: 900;
+  margin-top: 15px;
   
 }
 .container {

@@ -40,7 +40,7 @@ export const Mapview = () => {
         <MapContainer center={coo} zoom={Zoom} scrollWheelZoom={true}>
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            url="https://api.maptiler.com/maps/openstreetmap/256/{z}/{x}/{y}@2x.jpg?key=FaGDTEesebNtVUL1fuo3"
+            url="https://api.maptiler.com/maps/openstreetmap/256/{z}/{x}/{y}@2x.jpg?key=Hvb7CnXxkbxYLSfA1pq6"
           />
           <Marker position={coo}>{/* <Popup>Info goes here</Popup> */}</Marker>
         </MapContainer>
